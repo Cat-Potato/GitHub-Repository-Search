@@ -16,7 +16,7 @@ GitHub Repository Search to aplikacja stworzona w Pythonie, która pozwala na wy
 
 1. **Zainstaluj wymagane biblioteki**:
    - Upewnij się, że masz zainstalowane biblioteki `requests` i `tkinter`.
-   - Możesz użyć instalatora bibliotek (patrz [Biblioteka Installer](#biblioteka-installer)).
+   - Możesz użyć instalatora bibliotek.
 
 2. **Utwórz plik**:
    - Otwórz edytor tekstu i wklej kod z aplikacji wyszukiwarki repozytoriów GitHub.
